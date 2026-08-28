@@ -10,13 +10,13 @@
 
 ## 👋 关于我 · About Me
 
-🎓 **浙江工业大学** · Zhejiang University of Technology
 
 🚁 关注方向 · Interests
 
-- 无人机 / UAV —— PX4 · OpenVins · Intel RealSense D435
-- 嵌入式 / Embedded —— STM32 · 红外循迹小车
+- 无人机 / UAV 
+- 嵌入式 / Embedded —— STM32 
 - Web —— Astro · JavaScript
+- 机器人
 
 > “只有游戏机陪我对着屏幕，一直待到天亮，这会的云彩像一朵粉红色的棉花糖” ☁️
 
