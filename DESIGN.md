@@ -18,13 +18,13 @@ typography:
 
 This GitHub Profile README feels like a compact workbench in the cloud: personal enough to remember, technical enough to trust, and organized around four focus areas and current activity. Cloud Pink provides the identity while GitHub-native Markdown keeps the profile direct, familiar, and maintainable.
 
-The system is intentionally restrained. It uses a single reading order, a few purposeful remote graphics, and one consistent semantic icon family instead of an ornamental card wall. This design system governs only the GitHub Profile README and future profile-specific additions; it does not govern the linked Astro website.
+The system is intentionally restrained. It uses a single reading order, a few purposeful remote graphics, and one service-rendered technology strip instead of an ornamental card wall. This design system governs only the GitHub Profile README and future profile-specific additions; it does not govern the linked Astro website.
 
 **Key Characteristics:**
 
 - One memorable Cloud Pink accent within a GitHub-native surface.
 - A mobile-first, single-column narrative from identity to contact.
-- Compact badges, four semantic focus icons, and one informative activity card.
+- Compact badges, one technology icon strip, and one informative activity card.
 - Bilingual content that reads as one profile rather than duplicated translations.
 - Accessible image alternatives and color-scheme-aware contribution artwork.
 
@@ -61,9 +61,9 @@ The palette has one authored color; GitHub and the embedded services own every n
 
 ## Layout
 
-The profile follows one mobile-first reading order: introduction, about, core technologies, activity, contribution history, and contact. It does not introduce authored breakpoints, grids, or desktop-only columns.
+The profile follows one mobile-first reading order: introduction, about, technology stack, activity, contribution history, and contact. It does not introduce authored breakpoints, grids, or desktop-only columns.
 
-Center alignment is reserved for compact visual moments: the opening identity, core-technology icon strip, activity card, contribution snake, contact badges, and signature. Explanatory copy stays in normal Markdown flow for scanning. Remote images must remain able to shrink within GitHub's content column; the typing graphic declares a 600-pixel service canvas and the activity card declares a 390-pixel width, but neither establishes a page breakpoint.
+Center alignment is reserved for compact visual moments: the opening identity, technology icon strip, activity card, contribution snake, contact badges, and signature. Explanatory copy stays in normal Markdown flow for scanning. Remote images must remain able to shrink within GitHub's content column; the typing graphic declares a 600-pixel service canvas and the activity card declares a 390-pixel width, but neither establishes a page breakpoint.
 
 ### Named Rules
 
@@ -99,11 +99,11 @@ The profile defines no radius or border scale. Badges retain the compact silhoue
 - **Style:** Compact, flat service badges. Cloud Pink marks the profile-authored website relationship.
 - **Behavior:** Each badge is wrapped in its real destination link and has concise alternative text.
 
-### Core Technology Icon Strip
+### Technology Strip
 
-- **Role:** A centered visual mapping from the four written focus areas to PX4, OpenCV, ROS, and STM32.
-- **Style:** Four 56-pixel Cloud Pink icons from one Material Design icon family: quadcopter, camera, robot, and memory chip. A compact text caption names the corresponding technologies.
-- **Accessibility:** Each image alternative names its focus area; the visible caption preserves the technology mapping without relying on icon recognition.
+- **Role:** A centered summary of the implemented toolset after the written focus areas.
+- **Style:** One service-rendered icon strip with fourteen technologies arranged in a seven-icon grid rather than separated into individual cards.
+- **Accessibility:** Alternative text names every technology shown.
 
 ### Activity Card
 
@@ -131,7 +131,7 @@ The profile defines no radius or border scale. Badges retain the compact silhoue
 - **Do** use Cloud Pink consistently for authored identity and website touchpoints.
 - **Do** give every image meaningful alternative text and keep essential facts available as text.
 - **Do** serve contribution artwork through the existing light/dark `picture` pattern.
-- **Do** keep the four focus areas and their icon order synchronized: UAV, visual SLAM, robotics, embedded.
+- **Do** keep the technology strip's alternative text synchronized with every icon shown.
 
 ### Don't:
 

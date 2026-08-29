@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-29T00:18:08Z",
+  "generatedAt": "2026-08-29T00:30:55Z",
   "title": "Design System: The Cloud-Pink Workbench",
   "extensions": {
     "colorMeta": {
@@ -20,11 +20,11 @@
   "components": [],
   "narrative": {
     "northStar": "The Cloud-Pink Workbench / 粉色云端工作台",
-    "overview": "This GitHub Profile README feels like a compact workbench in the cloud: personal enough to remember, technical enough to trust, and organized around four focus areas and current activity. Cloud Pink provides the identity while GitHub-native Markdown keeps the profile direct, familiar, and maintainable.\n\nThe system is intentionally restrained. It uses a single reading order, a few purposeful remote graphics, and one consistent semantic icon family instead of an ornamental card wall. This design system governs only the GitHub Profile README and future profile-specific additions; it does not govern the linked Astro website.",
+    "overview": "This GitHub Profile README feels like a compact workbench in the cloud: personal enough to remember, technical enough to trust, and organized around four focus areas and current activity. Cloud Pink provides the identity while GitHub-native Markdown keeps the profile direct, familiar, and maintainable.\n\nThe system is intentionally restrained. It uses a single reading order, a few purposeful remote graphics, and one service-rendered technology strip instead of an ornamental card wall. This design system governs only the GitHub Profile README and future profile-specific additions; it does not govern the linked Astro website.",
     "keyCharacteristics": [
       "One memorable Cloud Pink accent within a GitHub-native surface.",
       "A mobile-first, single-column narrative from identity to contact.",
-      "Compact badges, four semantic focus icons, and one informative activity card.",
+      "Compact badges, one technology icon strip, and one informative activity card.",
       "Bilingual content that reads as one profile rather than duplicated translations.",
       "Accessible image alternatives and color-scheme-aware contribution artwork."
     ],
@@ -61,7 +61,7 @@
       "Do use Cloud Pink consistently for authored identity and website touchpoints.",
       "Do give every image meaningful alternative text and keep essential facts available as text.",
       "Do serve contribution artwork through the existing light/dark `picture` pattern.",
-      "Do keep the four focus areas and their icon order synchronized: UAV, visual SLAM, robotics, embedded."
+      "Do keep the technology strip's alternative text synchronized with every icon shown."
     ],
     "donts": [
       "Don't apply this system to the linked Astro website; it is scoped to the GitHub Profile README.",

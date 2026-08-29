@@ -1,6 +1,6 @@
 <!--
 THESIS: A concise technical profile where UAV, visual SLAM, robotics, and embedded systems form one connected practice; it refuses a wall of decorative stat cards.
-OWN-WORLD: Cloud-pink accents, dark-compatible SVGs, compact badges, and a consistent semantic icon set inside GitHub-native Markdown.
+OWN-WORLD: Cloud-pink accents, dark-compatible SVGs, compact badges, and a service-rendered technology icon strip inside GitHub-native Markdown.
 STORY: Visitors meet kkkk, understand the four focus areas, see current GitHub activity, then continue to GitHub or the personal site.
 FIRST VIEWPORT: Centered animated introduction and two compact badges lead directly into a short bilingual self-introduction.
 FORM: GitHub Profile README conventions, selected from popular maintained projects and adapted for reliability.
@@ -33,18 +33,10 @@ FINISH: unreviewed and undocumented is unfinished; this build ends with the fini
 
 > “只有游戏机陪我对着屏幕，一直待到天亮，这会的云彩像一朵粉红色的棉花糖” ☁️
 
-## 核心技术 · Core Technologies
+## 技术栈 · Tech Stack
 
 <div align="center">
-  <img width="56" height="56" src="https://api.iconify.design/mdi:quadcopter.svg?color=%23FE428E" alt="无人机 UAV 图标" title="无人机 · UAV" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="56" height="56" src="https://api.iconify.design/mdi:camera-outline.svg?color=%23FE428E" alt="视觉 SLAM 图标" title="视觉 SLAM" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="56" height="56" src="https://api.iconify.design/mdi:robot.svg?color=%23FE428E" alt="机器人图标" title="机器人 · Robotics" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="56" height="56" src="https://api.iconify.design/mdi:memory.svg?color=%23FE428E" alt="嵌入式芯片图标" title="嵌入式 · Embedded" />
-  <br />
-  <sub>PX4 · OpenCV · ROS · STM32</sub>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,python,arduino,raspberrypi,linux,git,github,githubactions,javascript,astro,html,css&amp;perline=7" alt="C, C++, CMake, Python, Arduino, Raspberry Pi, Linux, Git, GitHub, GitHub Actions, JavaScript, Astro, HTML and CSS" />
 </div>
 
 ## GitHub 动态 · GitHub Activity
