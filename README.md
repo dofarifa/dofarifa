@@ -1,7 +1,7 @@
 <!--
-THESIS: A concise technical profile where UAV, embedded systems, and Web form one connected practice; it refuses a wall of decorative stat cards.
-OWN-WORLD: Cloud-pink accents, dark-compatible SVGs, compact badges, and plain project links inside GitHub-native Markdown.
-STORY: Visitors meet kkkk, understand the four focus areas, inspect real projects and activity, then continue to GitHub or the personal site.
+THESIS: A concise technical profile where UAV, visual SLAM, robotics, and embedded systems form one connected practice; it refuses a wall of decorative stat cards.
+OWN-WORLD: Cloud-pink accents, dark-compatible SVGs, compact badges, and a consistent semantic icon set inside GitHub-native Markdown.
+STORY: Visitors meet kkkk, understand the four focus areas, see current GitHub activity, then continue to GitHub or the personal site.
 FIRST VIEWPORT: Centered animated introduction and two compact badges lead directly into a short bilingual self-introduction.
 FORM: GitHub Profile README conventions, selected from popular maintained projects and adapted for reliability.
 FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, DESIGN.md, and every shipping raster carrying its provenance
@@ -12,7 +12,7 @@ FINISH: unreviewed and undocumented is unfinished; this build ends with the fini
 <h1>Hi, I'm kkkk ☁️</h1>
 
 <a href="https://github.com/dofarifa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3500&amp;pause=900&amp;color=FE428E&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=UAV+%C2%B7+Embedded+%C2%B7+Web;Building+across+hardware+and+software+%E2%9C%A8" alt="UAV, Embedded and Web — building across hardware and software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=4000&amp;pause=10000&amp;color=FE428E&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%84%9F%E8%A7%89%E6%82%B2%E4%BC%A4%EF%BC%8C%E6%88%91%E5%B0%B1%E9%99%AA%E4%BD%A0%E6%99%92%E5%A4%AA%E9%98%B3" alt="如果你感觉悲伤，我就陪你晒太阳" />
 </a>
 
 <p>
@@ -26,24 +26,26 @@ FINISH: unreviewed and undocumented is unfinished; this build ends with the fini
 
 嗨，我是 **kkkk**。我喜欢把飞行器、传感器和代码连接起来，在软硬件的交界处探索有趣的问题。
 
-- 🚁 **无人机 · UAV** — PX4、OpenVINS、RealSense D435
-- 🔧 **嵌入式 · Embedded** — STM32、传感器与运动控制
-- 🌐 **Web** — Astro、JavaScript
-- 🤖 **机器人 · Robotics** — 感知、控制与自主系统
+- **无人机 · UAV**
+- **视觉 SLAM · Visual SLAM**
+- **机器人 · Robotics**
+- **嵌入式 · Embedded**
 
 > “只有游戏机陪我对着屏幕，一直待到天亮，这会的云彩像一朵粉红色的棉花糖” ☁️
 
-## 技术栈 · Tech Stack
+## 核心技术 · Core Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,python,arduino,raspberrypi,linux,git,github,githubactions,javascript,astro,html,css&amp;perline=7" alt="C, C++, CMake, Python, Arduino, Raspberry Pi, Linux, Git, GitHub, GitHub Actions, JavaScript, Astro, HTML and CSS" />
+  <img width="56" height="56" src="https://api.iconify.design/mdi:quadcopter.svg?color=%23FE428E" alt="无人机 UAV 图标" title="无人机 · UAV" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="56" height="56" src="https://api.iconify.design/mdi:camera-outline.svg?color=%23FE428E" alt="视觉 SLAM 图标" title="视觉 SLAM" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="56" height="56" src="https://api.iconify.design/mdi:robot.svg?color=%23FE428E" alt="机器人图标" title="机器人 · Robotics" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="56" height="56" src="https://api.iconify.design/mdi:memory.svg?color=%23FE428E" alt="嵌入式芯片图标" title="嵌入式 · Embedded" />
+  <br />
+  <sub>PX4 · OpenCV · ROS · STM32</sub>
 </div>
-
-## 精选项目 · Featured Projects
-
-- 🚁 **[Unmanned-Aerial-Vehicle](https://github.com/dofarifa/Unmanned-Aerial-Vehicle)** — `C++` · OpenVINS + RealSense D435 + PX4
-- 🚗 **[LFC](https://github.com/dofarifa/LFC)** — `C` · 基于 STM32F103 与八路红外模块的循迹小车
-- ☁️ **[dofarifa.github.io](https://github.com/dofarifa/dofarifa.github.io)** — `Astro` · 个人网站与技术内容
 
 ## GitHub 动态 · GitHub Activity
 
