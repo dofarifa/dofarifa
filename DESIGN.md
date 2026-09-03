@@ -3,6 +3,7 @@ name: The Cloud-Pink Workbench
 description: A concise, cloud-pink GitHub Profile README connecting perception, robotics, and embedded practice.
 colors:
   cloud-pink: "#FE428E"
+  soft-cloud-pink: "#D8759B"
 typography:
   typing-svg:
     fontFamily: "Fira Code"
@@ -30,15 +31,16 @@ The system is intentionally restrained. It uses a single reading order, a few pu
 
 ## Colors
 
-The palette has one authored color; GitHub and the embedded services own every neutral, surface, and text color around it.
+The palette uses one vivid authored accent and one softer tonal expression; GitHub and the embedded services own every neutral, surface, and text color around it.
 
 ### Primary
 
-- **Cloud Pink** (`#FE428E`): identifies the typing introduction, profile-view badge, and website touchpoints. Use it as a recognizable thread, not as a full-page fill or a substitute for labels.
+- **Cloud Pink** (`#FE428E`): identifies the profile-view badge and website touchpoints. Use it as a recognizable thread, not as a full-page fill or a substitute for labels.
+- **Soft Cloud Pink** (`#D8759B`): a muted, romantic pink reserved for the typing introduction. Its lower saturation keeps the opening line gentle while retaining large-text contrast on GitHub's light and dark surfaces.
 
 ### Named Rules
 
-**The One Accent Rule.** Cloud Pink is the only profile-authored brand color; do not invent supporting palettes or copy service-owned radical-theme colors into the token set.
+**The Tonal Pink Rule.** Cloud Pink remains the profile's authored brand accent; Soft Cloud Pink may appear only in the typing introduction as its quieter tonal expression. Do not invent additional supporting palettes or copy service-owned radical-theme colors into the token set.
 
 ## Typography
 
@@ -90,7 +92,7 @@ The profile defines no radius or border scale. Badges retain the compact silhoue
 ### Typing Introduction
 
 - **Role:** A centered personal line — “如果你感觉悲伤，我就陪你晒太阳” — that gives the technical profile a warm, memorable voice.
-- **Style:** Cloud Pink Fira Code in the typing SVG, with centered horizontal and vertical alignment.
+- **Style:** Soft Cloud Pink Fira Code in the typing SVG, with centered horizontal and vertical alignment.
 - **Accessibility:** The alternative text repeats the complete sentence without depending on the animation.
 
 ### Utility Badges

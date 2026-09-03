@@ -12,7 +12,7 @@ FINISH: unreviewed and undocumented is unfinished; this build ends with the fini
 <h1>Hi, I'm kkkk ☁️</h1>
 
 <a href="https://github.com/dofarifa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=4000&amp;pause=10000&amp;color=FE428E&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%84%9F%E8%A7%89%E6%82%B2%E4%BC%A4%EF%BC%8C%E6%88%91%E5%B0%B1%E9%99%AA%E4%BD%A0%E6%99%92%E5%A4%AA%E9%98%B3" alt="如果你感觉悲伤，我就陪你晒太阳" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=4000&amp;pause=10000&amp;color=D8759B&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%84%9F%E8%A7%89%E6%82%B2%E4%BC%A4%EF%BC%8C%E6%88%91%E5%B0%B1%E9%99%AA%E4%BD%A0%E6%99%92%E5%A4%AA%E9%98%B3" alt="如果你感觉悲伤，我就陪你晒太阳" />
 </a>
 
 <p>
