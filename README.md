@@ -17,7 +17,7 @@ FINISH: unreviewed and undocumented is unfinished; this build ends with the fini
 
 <p>
   <a href="https://github.com/dofarifa"><img src="https://komarev.com/ghpvc/?username=dofarifa&amp;label=Profile+views&amp;color=fe428e&amp;style=flat" alt="Profile views" /></a>
-  <a href="https://dofarifa.github.io"><img src="https://img.shields.io/badge/Website-dofarifa.github.io-FE428E?style=flat&amp;logo=astro&amp;logoColor=white" alt="Personal website" /></a>
+  <a href="https://www.kkkkk.icu"><img src="https://img.shields.io/badge/Blog-www.kkkkk.icu-FE428E?style=flat&amp;logo=astro&amp;logoColor=white" alt="Personal website" /></a>
 </p>
 
 </div>
@@ -59,7 +59,7 @@ FINISH: unreviewed and undocumented is unfinished; this build ends with the fini
 
 <div align="center">
   <a href="https://github.com/dofarifa"><img src="https://img.shields.io/badge/GitHub-dofarifa-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://kkkkk.icu"><img src="https://img.shields.io/badge/Homepage-kkkk.icu-FE428E?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="Personal homepage" /></a>
+  <a href="https://www.kkkkk.icu"><img src="https://img.shields.io/badge/Homepage-www.kkkk.icu-FE428E?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="Personal homepage" /></a>
 </div>
 
 ---
